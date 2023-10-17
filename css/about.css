@@ -1,0 +1,271 @@
+.about {
+  margin-top: 110px;
+  margin-bottom: 180px;
+}
+.about .about-header h1 {
+  margin-bottom: 2px;
+  font-size: xx-large;
+}
+.about .about-header .John p {
+  color: #EE4367;
+  font-size: larger;
+}
+.about .about-header .ceo p {
+  color: #A8A8A8;
+  font-size: smaller;
+}
+.about .about-header .para p {
+  color: #FFD140;
+}
+.about .about-header .border-bottom {
+  width: 210px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-header .border-bottom2 {
+  width: 280px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-header p {
+  font-size: large;
+}
+.about .about-header .header1 p {
+  color: #EE4367;
+}
+.about .about-header2 h1 {
+  margin-bottom: 2px;
+  font-size: xx-large;
+}
+.about .about-header2 .border-bottom {
+  width: 210px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-header2 .border-bottom2 {
+  width: 280px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-header2 p {
+  font-size: large;
+  color: #EE4367;
+}
+.about .about-header3 h1 {
+  margin-bottom: 2px;
+  font-size: small;
+}
+.about .about-header3 .border-bottom {
+  width: 210px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-header3 .border-bottom2 {
+  width: 280px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-header3 p {
+  font-size: large;
+  color: #EE4367;
+}
+.about .about-header4 h1 {
+  margin-bottom: 2px;
+  font-size: xx-large;
+  color: white;
+}
+.about .about-header4 .border-bottom {
+  width: 210px;
+  height: 2px;
+  background-color: white;
+  margin-bottom: 16px;
+}
+.about .about-header4 .border-bottom2 {
+  width: 440px;
+  height: 2px;
+  background-color: white;
+  margin-bottom: 16px;
+}
+.about .about-header4 p {
+  font-size: large;
+  color: #EE4367;
+}
+.about .about-client-quotes {
+  margin-top: 107px;
+}
+.about .about-client-quotes h1 {
+  margin-bottom: 2px;
+  font-size: xx-large;
+}
+.about .about-client-quotes .border-bottom {
+  width: 160px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-client-quotes .border-bottom2 {
+  width: 110px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-client-quotes .border-bottom3 {
+  width: 280px;
+  height: 2px;
+  background-color: #000;
+  margin-bottom: 16px;
+}
+.about .about-client-quotes .client-box {
+  max-width: 722px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  margin-bottom: 37px;
+}
+.about .about-client-quotes .client-box .client-image {
+  width: 260px;
+  height: 280px;
+  overflow: hidden;
+  margin-right: 21px;
+}
+.about .about-client-quotes .client-box .client-image img {
+  width: 100%;
+}
+.about .about-client-quotes .client-box .client-image2 {
+  width: 400px;
+  height: 442px;
+  overflow: hidden;
+  margin-right: 21px;
+  right: 150px;
+}
+.about .about-client-quotes .client-box .client-image2 img {
+  width: 100%;
+}
+.about .about-client-quotes .client-box .client-quote {
+  max-width: 440px;
+  margin-bottom: 20px;
+  font-size: large;
+}
+.about .about-client-quotes .client-box .client-quote span {
+  background-color: #79addc;
+  border-radius: 20px;
+  color: #fff;
+  padding: 11px 21px;
+  border: none;
+  font-size: small;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.about .about-client-quotes .client-box .client-quote span a {
+  text-decoration: none;
+  color: white;
+}
+.about .about-client-quotes .client-box .client-name {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color: #79ADDC;
+  font-size: large;
+}
+.about .about-client-quotes .client-box .form-area {
+  max-width: 118px;
+  min-height: 304px;
+}
+.about .about-client-quotes .client-box .form-area .form .two-input {
+  min-height: 60px;
+  width: 729px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 20px;
+}
+.about .about-client-quotes .client-box .form-area .form .two-input .left {
+  width: 560px;
+  border-style: none;
+  background-color: #F5F5F5;
+  border-width: 2px;
+}
+.about .about-client-quotes .client-box .form-area .form .two-input2 {
+  min-height: 60px;
+  width: 729px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 20px;
+}
+.about .about-client-quotes .client-box .form-area .form .two-input2 .left {
+  width: 560px;
+  height: 200px;
+  border-style: none;
+  background-color: #F5F5F5;
+  border-width: 2px;
+}
+.about .about-client-quotes .client-box .form-area .form span {
+  background-color: #EE4367;
+  color: #fff;
+  padding: 11px 21px;
+  border: none;
+}
+
+.container {
+  background-color: white;
+  padding: 20px;
+}
+
+.container2 {
+  background-color: #540D6E;
+  padding: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+@media (max-width: 860px) {
+  .about .client-box {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .about .client-image {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}

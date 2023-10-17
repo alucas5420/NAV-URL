@@ -1,0 +1,458 @@
+.background-props {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.tour-component {
+  height: 380px;
+  width: 980px;
+  background-color: aqua;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.tour-component .info-holder {
+  color: white;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tour-component1 {
+  height: 380px;
+  width: 980px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.tour-component1 .info-holder {
+  color: black;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: larger;
+}
+
+.tour-component2 {
+  height: 140px;
+  width: 480px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 auto;
+}
+.tour-component2 .info-holder2 {
+  color: white;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tour-component3 {
+  height: 442px;
+  width: 380px;
+  background-color: aqua;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.tour-component3 .info-holder {
+  color: white;
+  width: 90%;
+  height: 90%;
+}
+
+.tour-component4 {
+  height: 442px;
+  width: 580px;
+  background-color: aqua;
+}
+.tour-component4 .info-holder {
+  color: white;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tour-component5 {
+  height: 187px;
+  width: 490px;
+  background-color: aqua;
+}
+.tour-component5 .info-holder {
+  color: white;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tour-component6 {
+  height: 187px;
+  width: 187px;
+  background-color: aqua;
+}
+.tour-component6 .info-holder {
+  color: white;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tour-component7 {
+  height: 187px;
+  width: 265px;
+  background-color: aqua;
+}
+.tour-component7 .info-holder {
+  color: white;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tour-component8 {
+  height: 306px;
+  width: 603px;
+  background-color: aqua;
+}
+.tour-component8 .info-holder {
+  color: white;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.tour-component9 {
+  height: 306px;
+  width: 355px;
+  background-color: aqua;
+}
+.tour-component9 .info-holder {
+  color: white;
+  width: 90%;
+  height: 90%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.dispatch-event {
+  width: 174px;
+}
+.dispatch-event .date-time {
+  text-transform: uppercase;
+  color: gray;
+  font-size: 10px;
+  margin-bottom: 6px;
+}
+.dispatch-event .dispatch-image {
+  width: 950px;
+  height: 280px;
+  overflow: hidden;
+  margin-right: 21px;
+}
+.dispatch-event .dispatch-image img {
+  width: 100%;
+}
+.dispatch-event .title-bubble {
+  margin-top: 3px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.dispatch-event .title-bubble .title h5 {
+  font-size: 11px;
+  margin-bottom: 4px;
+  color: black;
+}
+.dispatch-event .title-bubble .bubble {
+  position: relative;
+  height: 70px;
+  width: 80px;
+  background-color: #EE4367;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 4px;
+}
+.dispatch-event .title-bubble2 {
+  margin-top: 3px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.dispatch-event .title-bubble2 .title2 h5 {
+  font-size: 11px;
+  margin-bottom: 4px;
+  color: white;
+}
+.dispatch-event .title-bubble2 .bubble {
+  position: relative;
+  height: 70px;
+  width: 80px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 4px;
+}
+.dispatch-event .title-bubble3 {
+  margin-top: 3px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.dispatch-event .title-bubble3 .title3 h5 {
+  font-size: 11px;
+  margin-bottom: 4px;
+  color: black;
+}
+.dispatch-event .title-bubble3 .bubble3 {
+  position: relative;
+  height: 155px;
+  width: 155px;
+  background-color: #EE4367;
+  color: white;
+  text-align: center;
+  padding-top: 4px;
+}
+.dispatch-event .title-bubble3 .bubble3 p {
+  font-size: larger;
+}
+
+.dispatch-event2 {
+  width: 174px;
+}
+.dispatch-event2 .date-time {
+  text-transform: uppercase;
+  color: gray;
+  font-size: 10px;
+  margin-bottom: 6px;
+}
+.dispatch-event2 .dispatch-image img {
+  width: 100%;
+}
+.dispatch-event2 .title-bubble {
+  margin-top: 3px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.dispatch-event2 .title-bubble .title h5 {
+  font-size: 11px;
+  margin-bottom: 4px;
+  color: black;
+}
+.dispatch-event2 .title-bubble .title p {
+  font-size: small;
+}
+.dispatch-event2 .title-bubble .title .red {
+  color: #EE4367;
+}
+.dispatch-event2 .title-bubble .bubble {
+  position: relative;
+  height: 40px;
+  width: 40px;
+  background-color: #EE4367;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 4px;
+}
+.dispatch-event2 .title-bubble .bubble .triangle {
+  position: absolute;
+  bottom: -8px;
+  left: 5px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 8px 8px 0 0;
+  border-color: gray transparent transparent transparent;
+}
+
+.about-pic {
+  background-image: url(../images/about.png), -webkit-gradient(linear, left top, left bottom, from(#eedc82));
+  background-image: url(../images/about.png), linear-gradient(#eedc82);
+}
+
+.blog-pic {
+  background-image: url(../images/blog.png);
+}
+
+.blog-pic2 {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white)), url(../images/blog.png);
+  background-image: linear-gradient(white), url(../images/blog.png);
+}
+
+.blog-2 {
+  background-image: url(../images/blog2.png);
+}
+
+.map-pic {
+  background-image: url(../images/map.png);
+}
+
+.gal-pic {
+  background-image: url(../images/gallery1.png);
+}
+
+.gal-pic2 {
+  background-image: url(../images/gallery2.png);
+}
+
+.gal-pic3 {
+  background-image: url(../images/gallery3.png);
+}
+
+.gal-pic4 {
+  background-image: url(../images/gallery4.png);
+}
+
+.gal-pic5 {
+  background-image: url(../images/gallery5.png);
+}
